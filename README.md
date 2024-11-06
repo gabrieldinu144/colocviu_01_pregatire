@@ -1,2 +1,3 @@
-# colocviu_01_pregatire
- Testing for first test at EIM
+Dinu Marian-Gabriel
+343 C2
+
